@@ -36,7 +36,8 @@ Object Oriented Programming has a capability of programming/coding (more precise
   * Data is hidden and can not be accessed by unauthorized external functions
   * Programs are divided into objects
   * It is based on grouping data (called data members) and related functions (called member functions) into a bigger model called a ***class***
-  * Class is a blueprint of object. It is designed in such a way that it characterizes the objects
+  * Class is a blueprint of object. It is designed in such a way that it 
+  cterizes the objects
   * It ties data more closely to the functions that operates on it, protects it from accidental modifications fro outside functions
   * OOP allows decomposition of a problem into a number of entities called objects and then build data freely around these objects
   * Data of an object can be accessed only by the functions associated with that object
@@ -93,6 +94,8 @@ int main() {
   * Polymorphism
   * Inheritence
   * Modularity
+
+Data hiding is the process that ensures exclusive data access to class members and provides object integrity by preventing unintended or intended changes. Abstraction, on the other hand, is an OOP concept that hides the implementation details and shows only the functionality to the user.
 
 ## Polymorphism
 
