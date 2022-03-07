@@ -112,6 +112,8 @@ Three ways of achieving overloading in C++
   * Operator Overloading
   * Dynamic Binding
 
+Dynamic binding refers to linking a procedure call to code that will execute only once. The code associated with the procedure is not known until the program is executed, which is also known as late binding.
+
 ## Overloading
 
 A name having two or more distinct meanings<br />
