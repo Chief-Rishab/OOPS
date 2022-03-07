@@ -85,7 +85,11 @@ int main() {
 ## 5 Characteristics of OOP
 
   * Data Encapsulation
+-Encapsulation is defined as wrapping up of data and information under a single unit. In Object Oriented Programming, Encapsulation is defined as binding together the data and the functions that manipulates them.
+
   * Data Abstraction
+-Data Abstraction in C++ Data abstraction refers to providing only essential information to the outside world and hiding their background details, i.e., to represent the needed information in program without presenting the details.
+
   * Polymorphism
   * Inheritence
   * Modularity
